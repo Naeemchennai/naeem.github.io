@@ -1,0 +1,27 @@
+CTRL+N=Class Name
+CTRL+SHIFT+N=File and Folder.
+CTRL+SHIFT+ALT+N=Symbol Lookup
+SHIFT+CTRL+E==Recent Edited Files
+CTRL+E=Recent Files
+Alt+1=Project View
+SHIFT+CTRL+F12=Hide All Windows to Write code.
+CTRL+F4 =Close Tab.
+Project View()+CTRL+SHIFT+Right to Resize window.
+CTRL+W copy CTRL+SHIFT+W to shrink.
+ALT+SHIFT+Up to move the code.
+CTRL+SHIFT+V ---Edit History
+SHIFT+ALT=Multiple Cursors.
+CTRL+SHIFT+ALT+J=Refactoriing
+CTRL+ALT+L=Code Clean Up
+Select code(CTRL+W)then ALT+Enter for Code Styles.
+String Languane Injection=JSOn ALT+Enter(Twice) to get Editro for json
+CTRL+SHIFT+Space=Smart Completion.
+CTRL+ALT+Space=Import While Writing.
+Heapi Completion=ALT /(Slash)
+CTRL+J=Templates.
+CTRL+ALT+T=Surrond Template(Try Catch)
+CTRL+SHIFT+Enter complete Code
+Structural Search=Searches for specific code.
+CTRL+K commit
+ALT+F12=Terminal
+ALT+Home==Navigation Bar
